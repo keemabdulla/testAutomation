@@ -85,7 +85,7 @@ After each test execution, an HTML file will be generated in the Automation Repo
 
 ### Contact
 
-alakeemabdulla@gmail.com
+Email: alakeemabdulla@gmail.com
 
 Project Link: https://github.com/keemabdulla/testAutomation
 
