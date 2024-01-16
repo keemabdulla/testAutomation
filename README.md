@@ -50,7 +50,7 @@ List the prerequisites needed to run your project.
 - Maven v3.9.6
 - Jdk Java v20.0.2
 
-After cloning the project, install all the maven dependencies
+After cloning the project, open terminal (make sure that you're in the project directory) install all the maven dependencies
 
 ```bash
 mvn dependency:resolve
