@@ -42,8 +42,6 @@ git clone https://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@github.com/keemabdull
 
 ### Prerequisites
 
-List the prerequisites needed to run your project.
-
 - Latest Chrome Browser
 - Maven v3.9.6
 - Jdk Java v20.0.2
