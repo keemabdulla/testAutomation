@@ -81,7 +81,7 @@ Right-click on testng.xml and select "Run testng.xml" in your preferred IDE.
 
 Reports are auto-generated using ExtentReport Dependency
 
-In Automation Reports directory, a HTML file will be generated after every test execution
+After each test execution, an HTML file will be generated in the Automation Reports directory.
 
 ### Contact
 
