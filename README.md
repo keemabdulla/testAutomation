@@ -28,8 +28,6 @@ This project's purpose is to showcase common best practices and techniques in We
 
 ### Built With
 
-List the major frameworks/libraries used in your project.
-
 - Selenium WebDriver https://www.selenium.dev/
 - TestNG Framework https://testng.org/
 
