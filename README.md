@@ -24,7 +24,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project purpose is to show common best practices and techniques in Web Test Automation using Selenium Java - Mavan TestNG
+This project's purpose is to showcase common best practices and techniques in Web Test Automation using Selenium Java - Maven TestNG.
 
 ### Built With
 
