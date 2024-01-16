@@ -1,11 +1,3 @@
-<!-- PROJECT SHIELDS -->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -13,14 +5,6 @@
   <p align="center">
     Built using Selenium Java - Maven TestNG
     <br />
-    <a href="https://github.com/your-username/your-repository"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/your-username/your-repository">View Demo</a>
-    ·
-    <a href="https://github.com/your-username/your-repository/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/your-username/your-repository/issues">Request Feature</a>
   </p>
 </div>
 
