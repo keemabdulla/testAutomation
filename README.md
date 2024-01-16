@@ -39,7 +39,7 @@ List the major frameworks/libraries used in your project.
 Clone the project:
 
 ```bash
-git clone https://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@github.com/keemabdulla/testAutomation
+git clone https://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@github.com/keemabdulla/testAutomation
 ```
 
 ### Prerequisites
