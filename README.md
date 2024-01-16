@@ -17,17 +17,14 @@
     <li><a href="#getting-started">Getting Started</a></li>
     <li><a href="#running-the-tests">Running the Tests</a></li>
     <li><a href="#project-structure">Project Structure</a></li>
-    <li><a href="#dependencies">Dependencies</a></li>
     <li><a href="#reports">Reports</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
   </ol>
 </details>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Describe your project, its purpose, and any other relevant information. You can also include a screenshot or demo link.
+This project purpose is to show common best practices and techniques in Web Test Automation using Selenium Java - Mavan TestNG
 
 ### Built With
 
@@ -49,7 +46,47 @@ git clone https://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@github.com/keemabdull
 
 List the prerequisites needed to run your project.
 
-- Example Prerequisite
+- Latest Chrome Browser
+- Maven v3.9.6
+- Jdk Java v20.0.2
+
+After cloning the project, install all the maven dependencies
 
 ```bash
-npm install
+mvn dependency:resolve
+```
+
+### Running the Tests
+
+From IDE terminal or PowerShell, make sure that you're in the project directory
+
+```bash
+mvn clean test
+```
+or
+
+Right-click on testng.xml and select "Run testng.xml" in your preferred IDE.
+
+### Project Structure
+
+- src
+  - test
+    - java
+    - resources
+- target
+- pom.xml
+- testng.xml
+
+### Reports
+
+Reports are auto-generated using ExtentReport Dependency
+
+In Automation Reports directory, a HTML file will be generated after every test execution
+
+### Contact
+
+alakeemabdulla@gmail.com
+
+Project Link: https://github.com/keemabdulla/testAutomation
+
+
