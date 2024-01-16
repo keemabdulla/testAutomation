@@ -41,9 +41,7 @@ List the major frameworks/libraries used in your project.
 
 Describe how to get started with your project. Include instructions on cloning the repository, installing dependencies, etc.
 
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
-npm install
+```git clone https://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@github.com/keemabdulla/testAutomation```
 
 
 ### Prerequisites
